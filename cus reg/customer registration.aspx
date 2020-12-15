@@ -54,13 +54,6 @@
                 </td>
             </tr>  
         </table>
-        <table>
-            <tr>
-                <td>
-                    <asp:GridView ID="grdcustomer" runat="server"></asp:GridView>
-                </td>
-            </tr>
-        </table>
     </div>
     </form>
 </body>
